@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.swo
+*.wav
+*.txt
+*.pkl
+*.pb
+*.log
+*.so
+*.o
